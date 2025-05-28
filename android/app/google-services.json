@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "991388739840",
+    "firebase_url": "https://sachetnapp-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "sachetnapp",
+    "storage_bucket": "sachetnapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:991388739840:android:0032fa99e3df4783f92be5",
+        "android_client_info": {
+          "package_name": "com.example.sachetana_firebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHhXANLdfB7j923_Mx-4l5nOZ6gCtvpa4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

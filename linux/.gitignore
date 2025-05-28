@@ -1,0 +1,8 @@
+flutter/ephemeral
+build/
+DerivedData/
+Flutter/
+
+# Xcode-related
+**/dgph
+**/xcuserdata/
